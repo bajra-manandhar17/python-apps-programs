@@ -1,0 +1,5 @@
+All the elements of the matrix are iterated
+new rows and columns are calculated
+current values are stored in the new rows and columns in the hashmap using tuples of current rows and columns as keys
+
+key is iterated and values are entered in the hashmap and matrix is updated
